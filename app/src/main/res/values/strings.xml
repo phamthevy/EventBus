@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">demoEventBus</string>
+    <string name="title_activity_child">ChildActivity</string>
+</resources>
